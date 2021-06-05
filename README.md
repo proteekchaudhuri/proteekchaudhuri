@@ -1,4 +1,12 @@
-### Hi there 👋
+### - 📫 How to reach me:
+#### email:    chaudhuri.proteek@gmail.com
+####           proteek.chaudhuri@gmail.com
+### websites: 
+####           proteek.github.io
+####           proteek.tk
+####           proteek.tk
+####           proteek.cf
+####           proteek.ga
 
 <!--
 **proteekchaudhuri/proteekchaudhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
